@@ -1,0 +1,61 @@
+.body-content {
+    background-color: lightblue;
+}
+
+.fs-4 {
+    color: white;
+    font-weight: 1;
+    font-size: large;
+}
+
+.nav-pills {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20%; 
+    font-weight: 1;  
+    font-size: large;
+    
+}
+
+.nav-pills2 {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20%;  
+    font-weight: 1;  
+    font-size: large;
+     
+}
+
+#text {
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+
+#game {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: lightgray;
+    color: black;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#controls {
+    border: 1px;
+    padding: 5px;
+}
+
+#monsterStats {
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: red;
+}
+
+.stat {
+    padding-right: 10px;
+}
